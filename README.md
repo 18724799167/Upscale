@@ -1,4 +1,5 @@
 # Upscale
+
 **Argument**
 
 img_dir:path to folder containing pictures
